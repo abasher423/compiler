@@ -1,6 +1,6 @@
 # compiler
 
-> The task of this project was to create a basic compiler using Java
+> The task of this project was to create a basic compiler for the Mapl language using Java
 
 ## Description
 
